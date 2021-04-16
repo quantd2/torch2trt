@@ -1,4 +1,4 @@
-from torch2trt.torch2trt import *
+from torch2trt import *
 from torch2trt.module_test import add_module_test
 from .unary import UnaryModule
 from torch import nn

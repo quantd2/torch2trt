@@ -1,6 +1,6 @@
 import torch.nn.functional as F
 import torch.nn as nn
-from torch2trt.torch2trt import *                                 
+from torch2trt import *                                 
 from torch2trt.module_test import add_module_test
 import collections
 
